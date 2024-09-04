@@ -1,9 +1,17 @@
 ## Hi there 👋
 
-<h1 align="center" style="color: dodgerblue;">
+<br>
+<br>
+<br>
+
+<h1 align="center">
 <img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif?cid=790b7611sb2ladci2pewbxtzrnh71rwb25r2e94s0i7tva7h&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 Uhuy here🧘🏻‍♂️🧘🏻‍♂️
 </h1>
+
+<br>
+<br>
+<br>
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
