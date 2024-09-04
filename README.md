@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center" style="color: RGB (30, 144, 255);">
+<h1 align="center" style="color: dodgerblue">
 <img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif?cid=790b7611sb2ladci2pewbxtzrnh71rwb25r2e94s0i7tva7h&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 Uhuy here🧘🏻‍♂️🧘🏻‍♂️
 </h1>
